@@ -1,0 +1,10 @@
+1|225|Nguyen Phuong Quan|5A4|2014-06-17|Nam|Ha Noi|8|Tot|Tieu hoc My Luong|Tham Lang Bac
+2|004|Cao Hien Hoa|7B1|2012-04-24|Nu|Ha Noi|9|Tot|THCS Son Tay|THPT Son Tay|true
+2|117|Nguyen Quynh Trang|8A1|2011-10-17|Nu|Ha Noi|7|Tot|THCS Nam Phuong Tien|THPT Chuc Dong|false
+3|266|Nguyen Van Quang|12A5|2007-06-17|Nam|Ha Noi|9|Kha|THPT Chuc Dong|A00|27|false|Dai hoc Thuy Loi
+1|987|Nguyen Thu Hien|4C1|2015-02-20|Nu|Ha Noi|10|Tot|Tieu hoc My Luong|Tham Lang Bac
+3|665|Dinh Van Manh|12A5|2007-12-25|Nam|Ha Noi|9|Tot|THPT Chuc Dong|A00|27|false|Dai hoc Ngoai Thuong
+3|334|Tran Mai Phuong|12A1|2007-08-30|Nu|Ha Noi|8|Tot|THPT Chuong My A|A00|26|false|Dai hoc Quoc Gia HN
+2|675|Ngo Quang Anh|7A4|2012-07-20|Nam|Ha Noi|8|Tot|THCS Hai Ba Trung|THPT Nguyen Thi Minh Khai|false
+3|943|Tran Nam Hao|12A5|2007-10-22|Nam|Ha Noi|8|Tot|THPT Chuc Dong|A00|25|false|Dai hoc Bach Khoa Ha Noi
+3|238|Ngo Thi Hai Yen|12A2|2007-05-05|Nu|Ha Noi|9|Tot|THPT Chuc Dong|A00|25|false|Dai hoc Bach Khoa Ha Noi
